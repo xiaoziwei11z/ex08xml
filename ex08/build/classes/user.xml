@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "E:/workspace-sts-3.9.5.RELEASE/ex08/src/user.dtd">
+
+<users>
+  <user>
+    <name>张三</name>
+    <age>22</age>
+    <gender>男</gender>
+  </user>
+  <user>
+    <name>李四</name>
+    <age>44</age>
+    <gender>女</gender>
+  </user>
+  <user>
+    <name>王五</name>
+    <age>11</age>
+    <gender>男</gender>
+  </user>
+</users>
